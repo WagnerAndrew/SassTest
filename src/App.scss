@@ -1,8 +1,7 @@
 @charset 'UTF-8';
 
 // Configuration and helpers
-@import './stylesheets/abstracts/variables', './stylesheets/abstracts/functions',
-  './stylesheets/abstracts/mixins';
+@import './variables', './functions', './mixins';
 
 // Vendors
 @import './stylesheets/vendors/normalize';
