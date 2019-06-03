@@ -1,6 +1,7 @@
 @charset 'UTF-8';
 
 // Configuration and helpers
-@import './variables', './functions', './mixins', './normalize', './animations',
-  './base', './fonts', './typography', './helpers', './header', './footer',
-  './button', './home', './middle', './wrapper.scss';
+@import './sass/variables', './sass/functions', './sass/mixins',
+  './sass/normalize', './sass/animations', './sass/base', './sass/fonts',
+  './sass/typography', './sass/helpers', './sass/header', './sass/footer',
+  './sass/button', './sass/home', './sass/middle', './sass/wrapper.scss';
